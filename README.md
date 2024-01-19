@@ -1,17 +1,20 @@
 # Olá, sou conhecido como Miguell.
 ### Minha História
-Tenho graduação em publicidade pela Estácio, e atualmente cursando análise e desenvolvimento de sistemas pela UFBRA. Nascido Potiguar (Natal-RN), mas criado Brasil a fora como no RJ e DF.
+Tenho graduação em publicidade pela Estácio, e atualmente estou cursando análise e desenvolvimento de sistemas pela UFBRA. Nascido Potiguar (Natal-RN), mas criado no RJ e DF(pai militar).
 
 Sempre sonhei em trabalhar na Coca-Cola desde o momento que vi os primeiros caminhões dela na época de Natal cantando aquela famosa música 🎵O Natal vem vindo, vem vindo Natal🎵. Anos depois consegui trabalhar na Coca-Cola como aprendiz nas áreas de Marketing e Inteligência Comercial, e de lá para cá venho aumentando minha experiência nas áreas administrativa e no atendimento. Tendo trabalhado também nos Ministérios Público de Natal e Macaíba, entre outros.
 
 Um dos meus maiores desafios foi ter trabalhado numa clínica para recrutar voluntários para a criação de uma nova vacina para a COVID durante a pandemia.
 
-Depois decidir voltar para o DF e morar com uma amiga que trabalha na área de tecnologia, mais especificamente em dados, e com ela comecei a conhecer mais sobre esse mundo e me interessar por ele. Por isso, estou aqui na DIO aprendendo mais sobre essa área, e pretendendo fazer 2 pós em BI e UX (pensando em ser um dev front-end).
+Agora estou entrando de cabeça na área de tecnologia. Pesquisei muito sobre, tive indicações de uma amiga sobre cursos, e finalmente já dei meus primeiros passos em direção ao meu objetivo. Fiz bootcamp de programação do zero pela DIO, e também pela DIO estou fazendo front-end com Angular. Consegui uma bolsa para o projeto ONE da Alura+Oracle de para iniciantes. Espero conseguir realizar esse meu sonho de trabalhar e aprender mais ainda nessa área.
 
-## Habilidades
-Javascript
-HTML5
-CSS3
+## Habilidades / Conhecimentos
+Javascript;
+HTML5;
+CSS3;
+Github;
+VS Code;
+Metodologias ágeis.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguellcapistrano&theme=transparent&bg_color=20B2AA&border_color=DCDCDC&show_icons=true&icon_color=FFA500&title_color=FFF&text_color=FFF&hide_title=true)
 
