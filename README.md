@@ -18,10 +18,9 @@ JavaScript / HTML5 / CSS3 / GitHub / VS Code / Metodologias Ágeis
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=miguellcapistrano&repo=dio-lab-open-source&bg_color=20B2AA&&border_color=DCDCDC&show_icons=true&icon_color=FFA500&title_color=FFF&text_color=FFF)](https://github.com/miguellcapistrano/dio-lab-open-source)
 
 ## Conecte-se comigo
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguell-capistrano/)
- <a href="https://www.instagram.com/miguellcapistrano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-[![Instagram](https://img.shields.io/badge/Instagram-100?style=for-the-badge&logo=instagram)](https://www.instagram.com/miguellcapistrano/)
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/miguellcapistrano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguell-capistrano/)
+<a href="https://www.instagram.com/miguellcapistrano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguellcapistrano)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994818806)
-<a href = "mailto:luizmiguell9322@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:luizmiguell9322@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Twitter](https://img.shields.io/badge/Twitter-049?style=for-the-badge&logo=twitter)](https://twitter.com/miguellcom2eli)
