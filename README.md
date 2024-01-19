@@ -1,8 +1,13 @@
 # Olá, sou conhecido como Miguell.
 ### Minha História
-    Tenho graduação em publicidade pela Estácio, e atualmente cursando análise e desenvolvimento de sistemas pela UFBRA. Nascido Potiguar (Natal-RN), mas criado Brasil a fora como no RJ e DF. Sempre sonhei em trabalhar na Coca-Cola desde o momento que vi os primeiros caminhões dela na época de Natal cantando aquela famosa música 🎵O Natal vem vindo, vem vindo Natal🎵. Anos depois consegui trabalhar na Coca-Cola como aprendiz nas áreas de Marketing e Inteligência Comercial, e de lá para cá venho aumentando minha experiência nas áreas administrativa e no atendimento. Tendo trabalhado também nos Ministérios Público de Natal e Macaíba, entre outros. 
-    Um dos meus maiores desafios foi ter trabalhado numa clínica para recrutar voluntários para a criação de uma nova vacina para a COVID durante a pandemia.
-    Depois decidir voltar para o DF e morar com uma amiga que trabalha na área de tecnologia, mais específicamente em dados, e com ela comecei a conhecer mais sobre esse mundo e me interessar por ele. Por isso, estou aqui na DIO aprendendo mais sobre essa área, e pretendendo fazer 2 pós em BI e UX(pensando em ser umm dev front-end).
+Tenho graduação em publicidade pela Estácio, e atualmente cursando análise e desenvolvimento de sistemas pela UFBRA. Nascido Potiguar (Natal-RN), mas criado Brasil a fora como no RJ e DF.
+
+Sempre sonhei em trabalhar na Coca-Cola desde o momento que vi os primeiros caminhões dela na época de Natal cantando aquela famosa música 🎵O Natal vem vindo, vem vindo Natal🎵. Anos depois consegui trabalhar na Coca-Cola como aprendiz nas áreas de Marketing e Inteligência Comercial, e de lá para cá venho aumentando minha experiência nas áreas administrativa e no atendimento. Tendo trabalhado também nos Ministérios Público de Natal e Macaíba, entre outros.
+
+Um dos meus maiores desafios foi ter trabalhado numa clínica para recrutar voluntários para a criação de uma nova vacina para a COVID durante a pandemia.
+
+Depois decidir voltar para o DF e morar com uma amiga que trabalha na área de tecnologia, mais especificamente em dados, e com ela comecei a conhecer mais sobre esse mundo e me interessar por ele. Por isso, estou aqui na DIO aprendendo mais sobre essa área, e pretendendo fazer 2 pós em BI e UX (pensando em ser um dev front-end).
+
 ## Habilidades
 Javascript
 HTML5
