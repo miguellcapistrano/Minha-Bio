@@ -9,12 +9,13 @@ Um dos meus maiores desafios foi ter trabalhado numa clínica para recrutar volu
 Agora estou entrando de cabeça na área de tecnologia. Pesquisei muito sobre, tive indicações de uma amiga sobre cursos, e finalmente já dei meus primeiros passos em direção ao meu objetivo. Fiz bootcamp de programação do zero pela DIO, e também pela DIO estou fazendo front-end com Angular. Consegui uma bolsa para o projeto ONE da Alura+Oracle de para iniciantes. Espero conseguir realizar esse meu sonho de trabalhar e aprender mais ainda nessa área.
 
 ## Habilidades / Conhecimentos
-Javascript;
-HTML5;
-CSS3;
-Github;
-VS Code;
-Metodologias ágeis.
+JavaScript
+HTML5
+CSS3
+GitHub
+VS Code
+Metodologias Ágeis
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguellcapistrano&theme=transparent&bg_color=20B2AA&border_color=DCDCDC&show_icons=true&icon_color=FFA500&title_color=FFF&text_color=FFF&hide_title=true)
 
